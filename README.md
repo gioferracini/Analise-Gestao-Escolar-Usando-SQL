@@ -8,7 +8,7 @@ All data are fictitious and intended for portfolio and learning purposes only.
 🧠 **Key Skills Demonstrated**
 
 * SQL (CTEs, joins, aggregations, ranking functions)
-* Data modeling & healthcare KPIs
+* Data modeling & KPIs
 * Analytical thinking and storytelling
 * Realistic database simulation with brazilian school organization
 
